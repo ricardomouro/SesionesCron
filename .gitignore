@@ -47,6 +47,7 @@ _ReSharper*/
 [Dd]ebug/
 [Rr]elease/
 [Xx]64/
+bin/
 
 # User Secrets
 **/secrets.json
@@ -99,3 +100,6 @@ _UpgradeReport_Files/
 # Ignore code coverage reports
 **/coverage-reports/
 **/TestResults/
+
+
+/.vs/SesionesCron.WPA/CopilotIndices/17.12.38.29086/CodeChunks.db
