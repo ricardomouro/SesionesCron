@@ -1,6 +1,6 @@
-C:\Users\lrimouro\source\repos\SesionesCron\SesionesCron.WPA\wwwroot\css\app.css
-C:\Users\lrimouro\source\repos\SesionesCron\SesionesCron.WPA\wwwroot\index.html
-C:\Users\lrimouro\source\repos\SesionesCron\SesionesCron.WPA\wwwroot\manifest.webmanifest
+C:\Users\lrimouro\source\repos\SesionCron-Ceci\SesionesCron\SesionesCron.WPA\wwwroot\css\app.css
+C:\Users\lrimouro\source\repos\SesionCron-Ceci\SesionesCron\SesionesCron.WPA\wwwroot\index.html
+C:\Users\lrimouro\source\repos\SesionCron-Ceci\SesionesCron\SesionesCron.WPA\wwwroot\manifest.webmanifest
 wwwroot\css\app.css
 wwwroot\icon-192.png
 wwwroot\icon-512.png

@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "199PIHRq",
+  "version": "aiUgnNd8",
   "assets": [
     {
       "hash": "sha256-8hTdrmR59LAJRrDu8LLRlNn641/iWIAjzG1GcCsAhR0=",
@@ -110,12 +110,12 @@ self.assetsManifest = {
       "url": "_framework/Microsoft.Win32.Registry.yqsrs1xmzk.wasm"
     },
     {
-      "hash": "sha256-ntM3Mtu8a8VUq5UpKK05ljiYp2SmIiSNzEb1h9M4LC8=",
-      "url": "_framework/SesionesCron.WPA.inpjj2l52m.wasm"
+      "hash": "sha256-76nnrEmV/+mMiiP25MYvqZaQUHV3YMquDGepx0LILuQ=",
+      "url": "_framework/SesionesCron.WPA.5b459i49mf.wasm"
     },
     {
-      "hash": "sha256-MsGnln3KmdND6HP7TWlReJuF16CqNYFyulMRxBfZRP8=",
-      "url": "_framework/SesionesCron.WPA.mvsc8nalbg.pdb"
+      "hash": "sha256-d6QPFuDZ+9q4FwnYaLE76EYmJhDOlkbmbUvubnLdQWQ=",
+      "url": "_framework/SesionesCron.WPA.xunjssplb7.pdb"
     },
     {
       "hash": "sha256-HbRkDUeB2xv5LFtTNVUn+9DHnbGuihOXCt1EQd2esZc=",
@@ -766,7 +766,7 @@ self.assetsManifest = {
       "url": "_framework/WindowsBase.377bly7twj.wasm"
     },
     {
-      "hash": "sha256-i6EN6bKdQl3nOoWwAGiUOC6iHyFGX//3lAg8Dc3AsqE=",
+      "hash": "sha256-BK90JNlurdwhzA0+U1f3yGjrIGPcN7ZvrW8/Od5ogI8=",
       "url": "_framework/blazor.boot.json"
     },
     {

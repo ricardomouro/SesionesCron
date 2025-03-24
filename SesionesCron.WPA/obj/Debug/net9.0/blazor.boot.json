@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "SesionesCron.WPA",
   "resources": {
-    "hash": "sha256-kIOD6dyju25kTtNlXUDyepg/M/GtDgdmVdPXpBcBuLI=",
+    "hash": "sha256-vWZx1Jo8SfqzTy79+Woee9RmDoFuuWbCN2c1tjr+eWQ=",
     "fingerprinting": {
       "Microsoft.AspNetCore.Authorization.qe23mgxr71.wasm": "Microsoft.AspNetCore.Authorization.wasm",
       "Microsoft.AspNetCore.Components.flveird317.wasm": "Microsoft.AspNetCore.Components.wasm",
@@ -201,8 +201,8 @@
       "icudt_CJK.tjcz0u77k5.dat": "icudt_CJK.dat",
       "icudt_EFIGS.tptq2av103.dat": "icudt_EFIGS.dat",
       "icudt_no_CJK.lfu7j35m59.dat": "icudt_no_CJK.dat",
-      "SesionesCron.WPA.inpjj2l52m.wasm": "SesionesCron.WPA.wasm",
-      "SesionesCron.WPA.mvsc8nalbg.pdb": "SesionesCron.WPA.pdb"
+      "SesionesCron.WPA.5b459i49mf.wasm": "SesionesCron.WPA.wasm",
+      "SesionesCron.WPA.xunjssplb7.pdb": "SesionesCron.WPA.pdb"
     },
     "jsModuleNative": {
       "dotnet.native.hmanx9razn.js": "sha256-d7UNSArplVrX3arY2Kmhxp1wN79ng8hLqIBrkiQ9Gbo="
@@ -412,10 +412,10 @@
       "WindowsBase.377bly7twj.wasm": "sha256-0VmBdMjdc0nZGHDSfaGirT6y3mJTM0qx8eqCUC/rpiE=",
       "mscorlib.o0184ey5ia.wasm": "sha256-2GxNKZQJVJvYMUxSTuXa5V2qxawSMMHZtwG33SKVCZU=",
       "netstandard.hb3h2rr8mk.wasm": "sha256-DWn9+RH/ElZQ6imlYqVwZvir1KTzNwY18AzGmnyiymU=",
-      "SesionesCron.WPA.inpjj2l52m.wasm": "sha256-ntM3Mtu8a8VUq5UpKK05ljiYp2SmIiSNzEb1h9M4LC8="
+      "SesionesCron.WPA.5b459i49mf.wasm": "sha256-76nnrEmV/+mMiiP25MYvqZaQUHV3YMquDGepx0LILuQ="
     },
     "pdb": {
-      "SesionesCron.WPA.mvsc8nalbg.pdb": "sha256-MsGnln3KmdND6HP7TWlReJuF16CqNYFyulMRxBfZRP8="
+      "SesionesCron.WPA.xunjssplb7.pdb": "sha256-d6QPFuDZ+9q4FwnYaLE76EYmJhDOlkbmbUvubnLdQWQ="
     }
   },
   "cacheBootResources": true,

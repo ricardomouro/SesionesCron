@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SesionesCron.WPA")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a41985417c162a322714145627c6336bc0c65582")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e6d5cc539cac5c121bb360fb76d960156bb296de")]
 [assembly: System.Reflection.AssemblyProductAttribute("SesionesCron.WPA")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SesionesCron.WPA")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
