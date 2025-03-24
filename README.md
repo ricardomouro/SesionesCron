@@ -104,12 +104,15 @@ Sesiones Control es una aplicación PWA (Progressive Web App) diseñada para pro
 # Modelo de Ejecución
 
 *   **Roles:**
-    *   **Product Manager/Usuario (Tú):** Definición de requisitos, validación, pruebas, implementación en el "mundo real".
-    *   **Gerente de Proyectos/Arquitecto/Desarrollador/Sysop (Yo):** Diseño, desarrollo, configuración, despliegue, gestión técnica del proyecto.
+    *   **Product Manager/Usuario (Agente):** Definición de requisitos, validación, pruebas, implementación en el "mundo real".
+    *   **Gerente de Proyectos/Arquitecto/Desarrollador/Sysop (IA):** Diseño, desarrollo, configuración, despliegue, gestión técnica del proyecto.
 *   **Proceso:**
-    1.  Yo propongo una actividad específica del sprint con los pasos a seguir.
-    2.  Tú realizas los pasos indicados y me informas cuando estén listos.
+    1.  IA propone una actividad específica del sprint con los pasos a seguir.
+    2.  Agente realizas los pasos indicados y me informas cuando estén listos.
     3.  Realizamos iteraciones en caso de dudas o problemas.
 *   **Herramientas:**
     *   Visual Studio 2022
     *   GitHub
+    *   IA - AiStudio.google.com
+
+    *   Agente - ricardomouro

@@ -1,0 +1,3 @@
+C:\Users\lrimouro\source\repos\SesionesCron\SesionesCron.WPA\wwwroot\css\app.css
+C:\Users\lrimouro\source\repos\SesionesCron\SesionesCron.WPA\wwwroot\index.html
+C:\Users\lrimouro\source\repos\SesionesCron\SesionesCron.WPA\wwwroot\manifest.webmanifest

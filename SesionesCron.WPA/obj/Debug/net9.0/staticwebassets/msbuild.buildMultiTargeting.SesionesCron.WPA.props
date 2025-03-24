@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SesionesCron.WPA.props" />
+</Project>
