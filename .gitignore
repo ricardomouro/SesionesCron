@@ -1,0 +1,101 @@
+# Compiled Object Code:
+[Oo]bj/
+[Bb]in/
+
+# Packages:
+packages/
+*.nupkg
+
+# gpg key password store
+.password-store
+
+# Visual Studio cache files
+.suo
+*.userprefs
+*.VC.db
+*.VC.VCW.cache
+*.VC.opendb
+*.VC.VCW.suo
+
+# User-specific files
+*.user
+*.vspscc
+*.vssscc
+*.unresolved
+*.orig
+*.rej
+*.bak
+*$*
+*.cs~
+*.rpt
+
+# NuGet Packages
+packages/
+*.nupkg
+
+# NuGet auto-generated files
+*.props
+*.targets
+nuget.config
+
+# Temporary files
+_ReSharper*/
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# Build Results
+[Dd]ebug/
+[Rr]elease/
+[Xx]64/
+
+# User Secrets
+**/secrets.json
+
+# MSTest Test Results
+[Tt]est[Rr]esult*/
+
+# Git and NuGet Interop
+# See: https://github.com/NuGet/NuGet.Client/blob/dev/src/NuGet.Core/NuGet.Packaging/package.nuspec
+*.NuGet.props
+*.NuGet.targets
+
+# ASP.NET Common
+*.vs/
+*.csproj.FileList.txt
+*.DotSettings.user
+*.DotSettings
+*.psess
+_PublishedWebsites/
+Content/
+Publish/
+_UpgradeReport_Files/
+*.dtsx
+*.rdl.data
+*.rsd
+
+# Files that are better suited to store large binary data
+*.ico
+*.pdf
+*.gif
+*.jpeg
+*.jpg
+*.png
+*.rar
+*.zip
+*.exe
+*.dll
+*.bak
+*.svg
+*.csv
+*.db
+*.sqllite
+*.xlsm
+*.xlsx
+
+# Azure Pipelines
+.cache/
+**/.DS_Store
+
+# Ignore code coverage reports
+**/coverage-reports/
+**/TestResults/
